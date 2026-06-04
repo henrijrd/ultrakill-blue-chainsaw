@@ -2,7 +2,7 @@
     "name": "Blue_Chainsaw",
     "description": "Makes the chainsaw, its projectile, trail, and glow blue.",
     "version_number": "1.0.0",
-    "website-url": "",
+    "website-url": "https://github.com/henrijrd/ultrakill-blue-chainsaw",
     "dependencies": [
         "bobthecorn-ULTRASKINS_GC-7.0.0",
 	"tetriscat66-USGCColorOverride-1.1.0"
