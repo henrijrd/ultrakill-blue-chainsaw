@@ -1,0 +1,8 @@
+{
+    "SkinName":"Blue chainsaw",
+    "Description": "Makes the chainsaw, its projectile, trail, and glow blue. Made for the BuildTankTank impact hammer skin, but usable without it.",
+    "Author":"Henrijrd",
+    "Version":"v1.0.0",
+    "PackFormat":"4.0"  
+            
+}
