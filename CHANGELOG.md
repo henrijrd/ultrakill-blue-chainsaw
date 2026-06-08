@@ -22,7 +22,5 @@ Added changelog
 
 
 
-Made an actual icon
-
-
+Another slight update to README to fit with the formatting of my other mods.
 
