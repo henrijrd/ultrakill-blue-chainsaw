@@ -22,5 +22,9 @@ Added changelog
 
 
 
+Updated icon
+
+
+
 Another slight update to README to fit with the formatting of my other mods.
 
